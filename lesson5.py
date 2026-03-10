@@ -1,4 +1,4 @@
-# This program calculates the area of a triangle
+# This program calculates the area of a triangle 
 base = float(input(("what is the base?")))
 height = float(input("what is the height?"))
 
